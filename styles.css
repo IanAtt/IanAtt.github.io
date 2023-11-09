@@ -14,3 +14,8 @@ h1{
 .assign img {
     width: 200px;
 }
+a {
+    text-decoration: none;
+    color: navy;
+}
+   
